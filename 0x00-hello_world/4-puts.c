@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry
- * puzzle,followed by a newline"
- * return: Always  0
+ * return: Always 0
  */
 int main(void)
 {
