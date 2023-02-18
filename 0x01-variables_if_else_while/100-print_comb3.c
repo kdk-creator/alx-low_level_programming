@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - prints all possible different combinations of two digits.
  * Return: 0
@@ -9,7 +10,7 @@ int main(void)
 	int c;
 	int d = 0;
 
-	while (d < 0)
+	while (d < 10)
 	{
 		c = 0;
 		while (c < 10)
