@@ -1,11 +1,10 @@
 #include "main.c"
-
 /**
  * main - test functions that print if a number is positive or not
  * Return: 0
  */
-
 int main(void)
+
 {
 	int i;
 
